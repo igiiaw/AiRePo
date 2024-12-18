@@ -52,7 +52,7 @@ public class AirlineReservationPortal {
         Flight flight2 = new Flight("FL456", "Tokyo", "Paris");
 
         // Create Passengers
-        Passenger passenger1 = new Passenger("John Doe", 28);
+        Passenger passenger1 = new Passenger("John Doe", 26);
         Passenger passenger2 = new Passenger("Jane Smith", 25);
 
         // Create Bookings
